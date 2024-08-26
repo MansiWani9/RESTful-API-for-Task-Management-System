@@ -1,0 +1,12 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task Manager</title>
+</head>
+<body>
+    <h2>Welcome to Task Manager</h2>
+    <p>Please <a href="login.jsp">login</a> to continue.</p>
+</body>
+</html>
